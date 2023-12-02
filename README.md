@@ -1,2 +1,2 @@
 # theatre
-Project 2 from C++
+Project 2 from C++ course
